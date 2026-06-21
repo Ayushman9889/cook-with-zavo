@@ -261,12 +261,10 @@ DATABASE_SSL=true
 
 ## 👨‍💻 Author
 
-### Ayushman Jaiswal
+### Ayushman
 
-**Full Stack Developer (MERN) | Next.js | React | Node.js | AI Integrations**
-
-- GitHub: https://github.com/Ayushman9889
-- LinkedIn: https://www.linkedin.com/in/ayushman-webdev/
+- GitHub: <https://github.com/Ayushman9889>
+- LinkedIn: <https://www.linkedin.com/in/ayushman-webdev/>
 
 ---
 
